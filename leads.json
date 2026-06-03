@@ -1,0 +1,414 @@
+[
+  {
+    "fullName": "Alexander Wright",
+    "email": "alex.wright@techsolutions.com",
+    "phone": "+1 (555) 234-5678",
+    "source": "Website",
+    "status": "Converted",
+    "notes": "Interested in enterprise cloud migration package. Highly motivated.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Website.",
+        "timestamp": "2026-03-02T17:12:43.161Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Interested in enterprise cloud migration package. Highly motivated.",
+        "timestamp": "2026-03-02T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-03-03T17:12:43.161Z"
+      },
+      {
+        "action": "Follow-up Note",
+        "note": "Sent proposal and conducted demo call. Client liked the scalability features.",
+        "timestamp": "2026-03-04T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'Contacted' to 'Converted'.",
+        "timestamp": "2026-03-05T17:12:43.161Z"
+      }
+    ],
+    "createdAt": "2026-03-02T17:12:43.161Z",
+    "updatedAt": "2026-03-05T17:12:43.161Z",
+    "_id": "6a1f0f0d8d98e6eadeecacdf"
+  },
+  {
+    "fullName": "Sarah Jenkins",
+    "email": "sarah.j@creativestudio.io",
+    "phone": "+1 (555) 987-6543",
+    "source": "Referral",
+    "status": "Converted",
+    "notes": "Referred by existing client. Needs ongoing UI/UX brand consulting.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Referral.",
+        "timestamp": "2026-03-02T17:12:43.161Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Referred by existing client. Needs ongoing UI/UX brand consulting.",
+        "timestamp": "2026-03-02T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Converted'.",
+        "timestamp": "2026-03-07T17:12:43.161Z"
+      }
+    ],
+    "createdAt": "2026-03-02T17:12:43.161Z",
+    "updatedAt": "2026-03-07T17:12:43.161Z",
+    "_id": "6a1f0f0d8d98e6eadeecace0"
+  },
+  {
+    "fullName": "Marcus Vance",
+    "email": "marcus.v@innovategroup.com",
+    "phone": "+1 (555) 345-6789",
+    "source": "Social Media",
+    "status": "Contacted",
+    "notes": "Inquired about monthly marketing retainer packages.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Social Media.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Inquired about monthly marketing retainer packages.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-04-04T17:12:43.161Z"
+      },
+      {
+        "action": "Follow-up Note",
+        "note": "Left voicemail. Will follow up in 3 days.",
+        "timestamp": "2026-04-05T17:12:43.161Z"
+      }
+    ],
+    "createdAt": "2026-04-02T17:12:43.161Z",
+    "updatedAt": "2026-04-05T17:12:43.161Z",
+    "_id": "6a1f0f0d8d98e6eadeecace1"
+  },
+  {
+    "fullName": "Elena Rostova",
+    "email": "elena.rostova@globalcom.ru",
+    "phone": "+1 (555) 876-5432",
+    "source": "Advertisement",
+    "status": "Converted",
+    "notes": "Responded to Google search ads for Node.js developers.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Advertisement.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Responded to Google search ads for Node.js developers.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-04-03T17:12:43.161Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'Contacted' to 'Converted'.",
+        "timestamp": "2026-04-09T17:12:43.161Z"
+      }
+    ],
+    "createdAt": "2026-04-02T17:12:43.161Z",
+    "updatedAt": "2026-04-09T17:12:43.161Z",
+    "_id": "6a1f0f0d8d98e6eadeecace2"
+  },
+  {
+    "fullName": "David Beckham",
+    "email": "david@sportsanalytics.co.uk",
+    "phone": "+44 20 7946 0958",
+    "source": "Other",
+    "status": "New",
+    "notes": "Met at European Tech Summit. Looking for custom analytics dashboard.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Other.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Met at European Tech Summit. Looking for custom analytics dashboard.",
+        "timestamp": "2026-04-02T17:12:43.161Z"
+      }
+    ],
+    "createdAt": "2026-04-02T17:12:43.161Z",
+    "updatedAt": "2026-04-02T17:12:43.161Z",
+    "_id": "6a1f0f0d8d98e6eadeecace3"
+  },
+  {
+    "fullName": "Chloe Dupont",
+    "email": "chloe.dupont@luxebrands.fr",
+    "phone": "+33 1 42 27 78 90",
+    "source": "Website",
+    "status": "Converted",
+    "notes": "Needs premium Shopify e-commerce build and brand re-design.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Website.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Needs premium Shopify e-commerce build and brand re-design.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-05-03T17:12:43.158Z"
+      },
+      {
+        "action": "Follow-up Note",
+        "note": "Presented project quote of $12,000. Customer signed contract.",
+        "timestamp": "2026-05-06T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'Contacted' to 'Converted'.",
+        "timestamp": "2026-05-06T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-05-02T17:12:43.158Z",
+    "updatedAt": "2026-05-06T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace4"
+  },
+  {
+    "fullName": "Jonathan Miller",
+    "email": "jmiller@millercapital.com",
+    "phone": "+1 (555) 456-7890",
+    "source": "Referral",
+    "status": "Contacted",
+    "notes": "Referred by Sarah Jenkins. Financial firm looking for secure landing pages.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Referral.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Referred by Sarah Jenkins. Financial firm looking for secure landing pages.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-05-04T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-05-02T17:12:43.158Z",
+    "updatedAt": "2026-05-04T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace5"
+  },
+  {
+    "fullName": "Aisha Rahman",
+    "email": "aisha.r@dubaisolutions.ae",
+    "phone": "+971 4 368 0000",
+    "source": "Social Media",
+    "status": "New",
+    "notes": "Instagram lead. Needs automated chatbot setup for retail business.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Social Media.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Instagram lead. Needs automated chatbot setup for retail business.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-05-02T17:12:43.158Z",
+    "updatedAt": "2026-05-02T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace6"
+  },
+  {
+    "fullName": "Robert Chen",
+    "email": "robert.chen@asiatech.com.sg",
+    "phone": "+65 6789 0123",
+    "source": "Advertisement",
+    "status": "Contacted",
+    "notes": "Clicked LinkedIn ad. Seeking React Native hybrid app development cost estimation.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Advertisement.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Clicked LinkedIn ad. Seeking React Native hybrid app development cost estimation.",
+        "timestamp": "2026-05-02T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-05-05T17:12:43.158Z"
+      },
+      {
+        "action": "Follow-up Note",
+        "note": "Sent preliminary proposal. Awaiting response after their board meeting next week.",
+        "timestamp": "2026-05-07T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-05-02T17:12:43.158Z",
+    "updatedAt": "2026-05-07T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace7"
+  },
+  {
+    "fullName": "Daniel Green",
+    "email": "dgreen@ecopower.org",
+    "phone": "+1 (555) 567-8901",
+    "source": "Website",
+    "status": "New",
+    "notes": "Non-profit green energy portal revamp inquiry.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Website.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Non-profit green energy portal revamp inquiry.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-06-02T17:12:43.158Z",
+    "updatedAt": "2026-06-02T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace8"
+  },
+  {
+    "fullName": "Emily Watson",
+    "email": "emily.watson@edtechhub.org",
+    "phone": "+1 (555) 678-9012",
+    "source": "Referral",
+    "status": "Contacted",
+    "notes": "Online course platform needs Stripe payment integration assistance.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Referral.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Online course platform needs Stripe payment integration assistance.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-06-02T15:12:43.158Z"
+      },
+      {
+        "action": "Follow-up Note",
+        "note": "Discussed project scope. Estimated 40 hours of work.",
+        "timestamp": "2026-06-02T16:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-06-02T17:12:43.158Z",
+    "updatedAt": "2026-06-02T16:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecace9"
+  },
+  {
+    "fullName": "Frank Gallagher",
+    "email": "frank@chicagodecor.net",
+    "phone": "+1 (555) 789-0123",
+    "source": "Advertisement",
+    "status": "New",
+    "notes": "Local design shop wants local SEO implementation.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Advertisement.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Local design shop wants local SEO implementation.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-06-02T17:12:43.158Z",
+    "updatedAt": "2026-06-02T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecacea"
+  },
+  {
+    "fullName": "Grace Hopper",
+    "email": "grace@compilers.org",
+    "phone": "+1 (555) 890-1234",
+    "source": "Website",
+    "status": "Converted",
+    "notes": "Legacy system modernization consultation. High budget.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Website.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Legacy system modernization consultation. High budget.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'New' to 'Contacted'.",
+        "timestamp": "2026-06-02T09:12:43.158Z"
+      },
+      {
+        "action": "Status Updated",
+        "note": "Status changed from 'Contacted' to 'Converted'.",
+        "timestamp": "2026-06-02T15:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-06-02T17:12:43.158Z",
+    "updatedAt": "2026-06-02T15:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecaceb"
+  },
+  {
+    "fullName": "Henry Cavill",
+    "email": "henry@witcherproductions.com",
+    "phone": "+1 (555) 901-2345",
+    "source": "Other",
+    "status": "New",
+    "notes": "Needs custom content management website built on Next.js.",
+    "activityLog": [
+      {
+        "action": "Lead Created",
+        "note": "Lead successfully initialized via Other.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      },
+      {
+        "action": "Note Added",
+        "note": "Needs custom content management website built on Next.js.",
+        "timestamp": "2026-06-02T17:12:43.158Z"
+      }
+    ],
+    "createdAt": "2026-06-02T17:12:43.158Z",
+    "updatedAt": "2026-06-02T17:12:43.158Z",
+    "_id": "6a1f0f0d8d98e6eadeecacec"
+  }
+]
